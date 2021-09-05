@@ -9,7 +9,7 @@ Web , IoT and Robotics
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solid-droid&theme=tokyonight" align="right"/> 
 
 ### 🛠 &nbsp;Tech Stack  
-&nbsp;  
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
@@ -35,9 +35,8 @@ Web , IoT and Robotics
 &nbsp;
   
 ### ⚙️ &nbsp;GitHub Analytics  
-&nbsp;  
-![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=solid-droid&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solid-droid&theme=tokyonight" alt="mystreak"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solid-droid&theme=tokyonight" align="center" alt="mystreak"/>
 
 
 

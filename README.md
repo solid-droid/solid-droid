@@ -33,8 +33,8 @@ Web , IoT and Robotics
 
 &nbsp;
   
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=solid-droid&theme=tokyonight" alt="mystreak"/>
-</p>
+</p> -->
 
 

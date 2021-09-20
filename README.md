@@ -1,6 +1,6 @@
 ### Hi there 👋  , Iam Nikhil -- ✨[portfolio](https://solid-droid.github.io/)
 Making everything simple to use.  
-Web , IoT and Robotics
+Web , IoT, Machine Learning and Robotics
 
 <!-- <img src="https://komarev.com/ghpvc/?username=solid-droid&color=brightgreen" alt="watching_count" /> -->
   

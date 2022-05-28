@@ -1,5 +1,6 @@
-### Hi there 👋  , Iam Nikhil -- ✨[portfolio](https://solid-droid.github.io/)
-Making everything simple to use.  
+### Hi there 👋  , Iam Nikhil 
+<!-- ✨[portfolio](https://solid-droid.github.io/) -->
+Making stuff simple to use.  
 Web , IoT, Machine Learning and Robotics
 
 Languages:  

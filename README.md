@@ -1,4 +1,5 @@
 ### Hi there 👋  , Iam Nikhil 
+Full Stack Web/Javascript Developer  
 <!-- ✨[portfolio](https://solid-droid.github.io/) -->
 Making stuff simple to use.  
 Web , IoT, Machine Learning and Robotics

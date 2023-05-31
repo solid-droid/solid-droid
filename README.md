@@ -2,7 +2,7 @@
 Full Stack Web/Javascript Developer  
 <!-- ✨[portfolio](https://solid-droid.github.io/) -->
 Making stuff simple to use.  
-Web UI, Automation and Robotics
+Web UI, AI , Automation and Robotics
 
 <!--
 Languages:  

@@ -1,8 +1,6 @@
 ### Hi there 👋  , Iam Nikhil 
 Full Stack Web/Javascript Developer  
-<!-- ✨[portfolio](https://solid-droid.github.io/) -->
-Making stuff simple to use.  
-Web UI, AI , Automation and Robotics
+Making a custom game engine, so i can build a MMO video game for the web :)  
 
 <!--
 Languages:  

@@ -1,6 +1,6 @@
 ### Hi there 👋  , Iam Nikhil 
 Full Stack Web/Javascript Developer  
-Making a custom game engine, so i can build a MMO video game for the web :)  
+Interested in Automation, Simulation and Analytics in Web.
 
 <!--
 Languages:  
